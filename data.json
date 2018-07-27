@@ -1,0 +1,43 @@
+{
+	"details":{
+		"name":"raki",
+        "image":"c.jpg",
+        "phone":"9999999999",
+        "email":"name@gmail.com"
+	},
+    "education":[
+{
+	"course":"Intermediate(MPC)",
+	"college":"JRC",
+    "percentage":"85%"
+
+},
+{
+	"course":"ssc",
+	"college":"chegu",
+    "percentage":"90%"
+},
+{
+	"course":"B.Tech(CSE)",
+	"college":"MIC college",
+    "percentage":"78%"
+}
+],
+"skills":[
+   {
+   	"title":"Programming Languages",
+   	"output":[
+      "C","C++","Java","Python"
+   	]
+   },
+   	{
+   		"title":"OperatingSystems",
+   		"output":[
+          "Windows","Linux","MAC"
+   		]
+
+
+   	}
+   
+]
+}
